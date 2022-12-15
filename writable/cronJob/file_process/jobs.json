@@ -1,0 +1,38 @@
+[
+    {
+        "name": "file_process",
+        "type": "closure",
+        "action": "{}",
+        "environment": "[]",
+        "start_at": "2022-11-10 20:57:34",
+        "end_at": "2022-11-10 20:57:34",
+        "duration": "00:00:00",
+        "output": "",
+        "error": "null",
+        "test_time": null
+    },
+    {
+        "name": "file_process",
+        "type": "closure",
+        "action": "{}",
+        "environment": "[]",
+        "start_at": "2022-11-10 20:55:06",
+        "end_at": "2022-11-10 20:55:06",
+        "duration": "00:00:00",
+        "output": null,
+        "error": "{}",
+        "test_time": null
+    },
+    {
+        "name": "file_process",
+        "type": "command",
+        "action": "php public\/index.php file process",
+        "environment": "[]",
+        "start_at": "2022-11-10 20:51:51",
+        "end_at": "2022-11-10 20:51:51",
+        "duration": "00:00:00",
+        "output": "",
+        "error": "null",
+        "test_time": null
+    }
+]
